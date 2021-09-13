@@ -1,0 +1,15 @@
+
+.Row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Cell {
+  border: 1px solid #000;
+  padding: 1.5rem;
+}
+
+.CellFill {
+  background-color: #000;
+}

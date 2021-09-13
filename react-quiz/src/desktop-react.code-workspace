@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../burger"
+		},
+		{
+			"path": "../../tetris"
+		},
+		{
+			"path": "../../react-todo-list"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/react-tetris-master"
+		}
+	],
+	"settings": {}
+}
